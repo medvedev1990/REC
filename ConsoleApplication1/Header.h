@@ -1,0 +1,10 @@
+int *abc(int *a, int *b);
+void znachenie(int *a);
+void ZappBiMass(int (*mass)[5], int val);
+void PrintBiMass(int(*mass)[5], int row);
+void SummBiMass(int(*mass)[5], int row);
+void ZappMass(int *mass, int row);
+void PrintMass(int *mass, int row);
+void summMassInMass(int *mass1, int *mass2, int *mass3, int *mass4, int row);
+int Rec1(int a);
+int Rec2(int a, int stepen);
